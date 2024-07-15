@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hello World!<br>I'm a Front-End Developer and UX Designer | UI.
+Hello World!<br>Desenvolvedora Front-End e Designer UX | UI.
 
 
 ## 🌐 Socials:
