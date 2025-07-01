@@ -5,6 +5,13 @@
 ---
 Sou Desenvolvedora Front-End com base sólida em UI Design, unindo código e criatividade para construir experiências digitais completas. Atuo desde o design no Figma até a publicação de interfaces reais com HTML, CSS, JavaScript e frameworks modernos como React.
 
+👩🏻‍💻 Rebeca Lira
+Front-End Developer & UI / Social Media Designer
+
+I am a Front-End Developer with a strong foundation in UI Design, combining code and creativity to build complete digital experiences. I work from designing in Figma to publishing real interfaces using HTML, CSS, JavaScript, and modern frameworks like React.
+Currently, I am expanding my skills by studying Java to become a full-stack developer.
+
+
 
 ### 🤖 Linguagens e Tecnologias
 
