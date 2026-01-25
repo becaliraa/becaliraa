@@ -1,126 +1,31 @@
-# *Rebeca Lira*
+## 👩‍💻 Sobre mim
 
-*Fron-End e UI & Social Media Designer* 
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em oportunidades de **estágio e posição júnior** como **Desenvolvedora Mobile Android**.  
+Atualmente estudo e desenvolvo projetos com **Kotlin** e **Java**, utilizando **Jetpack**, **Firebase** e **Spring Boot**, com interesse em boas práticas, arquitetura de aplicações e integração backend–mobile.
 
 ---
-Sou Desenvolvedora Front-End com base sólida em UI Design, unindo código e criatividade para construir experiências digitais completas. Atuo desde o design no Figma até a publicação de interfaces reais com HTML, CSS, JavaScript e frameworks modernos como React.
 
-# *Rebeca Lira*
+## 🚀 Tecnologias
 
-*Fron-End e UI & Social Media Designer* 
+### Linguagens
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-I am a Front-End Developer with a strong foundation in UI Design, combining code and creativity to build complete digital experiences. I work from designing in Figma to publishing real interfaces using HTML, CSS, JavaScript, and modern frameworks like React.
-Currently, I am expanding my skills by studying Java to become a full-stack developer.
+### Mobile Android
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
+### Outros conhecimentos
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🤖 Linguagens e Tecnologias
+---
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/> 
-
-<img 
-    align="left" 
-    alt="behance" 
-    title="behance"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left"  
-    alt="phto" 
-    title="Photo"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
- />
- 
-<img 
-    align="left"  
-    alt="phto" 
-    title="Photo"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
- />
-
- 
-<img 
-    align="left"  
-    alt="phto" 
-    title="Photo"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-/>
-
-
-<img 
-    align="left"  
-    alt="phto" 
-    title="Photo"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"
-/>
-
-<img 
-    align="left"  
-    alt="phto" 
-    title="Photo"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
-/>
-/>
-
-## ✍️ Autora
-
-Desenvolvido com 💻 por **Rebeca de Oliveira Lira**
-
-<div align="left">
-  <a href="https://github.com/becaliraa" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/becalira/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://linktr.ee/devbeca" target="_blank">
-    <img alt="Linktree" src="https://img.shields.io/badge/Linktree-39e09b?style=for-the-badge&logo=linktree&logoColor=white"/>
-  </a>
-</div>
-
+## 🎯 Objetivo
+Atuar como **Desenvolvedora Mobile Android (Estágio/Júnior)**, aplicando e evoluindo conhecimentos em **Kotlin**, **Java** e arquitetura de aplicações.
+Atuar como **Desenvolvedora Mobile Android (Estágio/Júnior)**, aplicando e evoluindo conhecimentos em **Kotlin**, **Java** e arquitetura de aplicações.
 
