@@ -27,5 +27,3 @@ Atualmente estudo e desenvolvo projetos com **Kotlin** e **Java**, utilizando **
 
 ## 🎯 Objetivo
 Atuar como **Desenvolvedora Mobile Android (Estágio/Júnior)**, aplicando e evoluindo conhecimentos em **Kotlin**, **Java** e arquitetura de aplicações.
-Atuar como **Desenvolvedora Mobile Android (Estágio/Júnior)**, aplicando e evoluindo conhecimentos em **Kotlin**, **Java** e arquitetura de aplicações.
-
