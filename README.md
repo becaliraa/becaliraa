@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou a Rebeca
 
-💻 Desenvolvedora Front-End em formação  
-🎨 Designer com foco em UI/UX  
+💻 Desenvolvedora Front-End  
+🎨 Designer com foco em Design de Produtos   
 🚀 Apaixonada por tecnologia, criatividade e soluções digitais.
 
 ---
@@ -11,8 +11,6 @@
 Atualmente estou focada em evoluir na área de desenvolvimento front end, construindo projetos práticos e aprimorando minhas habilidades em desenvolvimento e design de interfaces.
 
 Tenho especial interesse em criar **interfaces modernas, intuitivas e bem estruturadas**, unindo desenvolvimento e experiência do usuário.
-
-🎯 Objetivo: atuar como **Front-End Developer**, desenvolvendo produtos digitais funcionais, acessíveis e visualmente consistentes.
 
 ---
 
