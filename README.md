@@ -110,16 +110,6 @@ A product interface project involving interface design, reusable components, and
 
 ---
 
-### Breli
-
-A UX case study exploring friction in the e-commerce journey and possible improvements to the shopping experience.
-
-`UX Research` `UX/UI` `Product Design`
-
-→ [View project](https://github.com/becaliraa)
-
----
-
 ## 🌱 Currently
 
 I'm deepening my work across:
