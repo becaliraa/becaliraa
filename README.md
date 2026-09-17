@@ -1,74 +1,161 @@
-# 👋 Olá! Eu sou a Rebeca
+# Hey, I'm Rebeca 👋
 
-💻 Desenvolvedora Front-End  
-🎨 Designer com foco em Design de Produtos   
-🚀 Apaixonada por tecnologia, criatividade e soluções digitais.
+### Product Designer & Front-end Developer
 
----
+I design digital products and build interfaces, connecting **Product Design, UX/UI, Design Systems, and Front-end Development**.
 
-## 🧠 Sobre mim
+My work sits at the intersection of **design and technology** — from understanding a problem and shaping the experience to designing systems, interfaces, and bringing them to life with code.
 
-Atualmente estou focada em evoluir na área de desenvolvimento front end, construindo projetos práticos e aprimorando minhas habilidades em desenvolvimento e design de interfaces.
-
-Tenho especial interesse em criar **interfaces modernas, intuitivas e bem estruturadas**, unindo desenvolvimento e experiência do usuário.
+> **Problem → UX → UI → Design System → Interface → Code**
 
 ---
 
-## 🚀 Tecnologias
+## ✦ About me
 
-### 💻 Front-End
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+I'm a designer and front-end developer interested in creating digital products that are **useful, intuitive, accessible, and visually thoughtful**.
 
----
+My current professional focus is **Product Design, UX/UI, and Design Systems**, while front-end development remains an important part of how I work and turn ideas into functional interfaces.
 
-### 🎨 Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6)
+I enjoy working across disciplines and understanding both sides of a product: **how it should work and how it is actually built.**
 
 ---
 
-### 🛠️ Ferramentas
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🎨 Design
+
+I work across product interfaces, user experience, visual systems, and reusable components.
+
+**Focus areas**
+
+* Product Design
+* UX/UI Design
+* User-centered interfaces
+* Design Systems
+* UI Architecture
+* Prototyping
+* Design-to-code
+
+**Tools**
+
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square\&logo=figma\&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-000000?style=flat-square\&logo=adobephotoshop\&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-000000?style=flat-square\&logo=adobeillustrator\&logoColor=white)
 
 ---
 
-## 📂 Projetos em destaque
+## 💻 Front-end
 
-### 🚀 CRM Pro – Sistema de Gestão de Clientes
+I build responsive interfaces with a focus on componentization, consistency, and maintainable code.
 
-Sistema desenvolvido em **React** para gerenciamento de clientes com dashboard e análise de dados.
+**Core**
 
-Funcionalidades:
-- Dashboard de dados
-- Gerenciamento de clientes
-- Interface moderna e responsiva
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square\&logo=javascript\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square\&logo=react\&logoColor=white)
 
-🔗 Veja o projeto  
-https://github.com/seuusuario/crm-pro
+**Development tools**
 
----
-
-## 📈 Atualmente estudando
-
-- React
-- TypeScript
-- Arquitetura Front-End
-- Integração com APIs REST
-- UI Systems e Design Systems
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
-## 🌎 Onde me encontrar
+## 🧩 Design + Development
 
-## 💼 LinkedIn  
+I don't see design and development as separate disciplines.
+
+**Design** helps define the problem, experience, interface, and system.
+
+**Development** turns those decisions into functional, scalable interfaces.
+
+That's why I enjoy working across the full interface journey:
+
+```text
+Research
+   ↓
+UX
+   ↓
+UI
+   ↓
+Design System
+   ↓
+Components
+   ↓
+Front-end
+```
+
+---
+
+## 🚀 Selected work
+
+### CRM Client Pro
+
+A client management interface exploring dashboards, data visualization, and product-oriented interface design.
+
+`Product Design` `UI` `React`
+
+→ [View project](https://github.com/becaliraa)
+
+---
+
+### Work Center Desk
+
+A product interface project involving interface design, reusable components, and front-end development.
+
+`Product Design` `UI` `Design Systems` `Front-end`
+
+→ [View project](https://github.com/becaliraa)
+
+---
+
+### Breli
+
+A UX case study exploring friction in the e-commerce journey and possible improvements to the shopping experience.
+
+`UX Research` `UX/UI` `Product Design`
+
+→ [View project](https://github.com/becaliraa)
+
+---
+
+## 🌱 Currently
+
+I'm deepening my work across:
+
+* Product Design
+* UX/UI
+* Design Systems
+* React
+* TypeScript
+* Front-end architecture
+* Design-to-code workflows
+
+---
+
+## 📌 What I'm interested in
+
+I'm particularly interested in projects involving:
+
+**Digital Products · SaaS · UX/UI · Design Systems · Product Interfaces · Front-end · React**
+
+---
+
+## 🌎 Let's connect
+
+💼 **LinkedIn**
 https://www.linkedin.com/in/becalira/
-## 💻 GitHub  
+
+💻 **GitHub**
 https://github.com/becaliraa
+
+🎨 **Portfolio**
+[LINK TO ADD]
+
+🖼️ **Behance**
+[LINK TO ADD]
+
+---
+
+### Thanks for stopping by! ✦
